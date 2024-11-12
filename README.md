@@ -11,8 +11,8 @@ This repository is about a Web program that I developed for a friend who request
 - . . .
 
 ## Steps to run/test this web system
-1. First, you have to download the all project to your powerfull machine at [Ayrton GitHub repository](https://github.com/AyrtonPereira1996/sistema-para-gestao-tempo-trabalho-php7). Check the image bellow to know how to do:
-![Captura de ecrã de 2021-09-08 09-32-12](https://user-images.githubusercontent.com/40174805/132466339-1c39e6a9-29cc-45f4-b97c-54184cbede6d.png)
+1. First, you have to download the all project to your powerfull machine at [Cornelio GitHub repository](https://github.com/cornelio21/Sistema-de-Gest-o-de-Tempo-de-Trabalho-para-a-DPEFZ). Check the image bellow to know how to do:
+
 
 2. Once the project is in your machine you have to have WAMP (for windows), XAMP, LAMP (for Linux) or another tool/tools that allow you have apache, mysql server, a version of php and Data Base Management System (DBMS) installed in your machine.
 
@@ -20,7 +20,7 @@ This repository is about a Web program that I developed for a friend who request
 
 4. Once, you have apache, mysql server, a version of php and Data Base Management System (DBMS) installed in your machine and the project folder is in the right place you must import the database to your local mysql server. The Dump of the data base is in DB project folder or, [data base dump file](https://github.com/AyrtonPereira1996/sistema-para-gestao-tempo-trabalho-php7/tree/master/bd).
 
-5. In my operating system I acess this project with **localhost/projecto-sistema-monografia/**
+5. In my operating system I acess this project with Wamp
 
 6. The system has three type of users role as (their username and pass to acess):
   - **username: ernesto@gmail.com | Password : 123 | User role: SUPER-ADMIN**
