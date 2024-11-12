@@ -18,7 +18,7 @@ This repository is about a Web program that I developed for a friend who request
 
 3. If, you have this tools installed, you probably have to put the project folder in the right place depending on you Operating System and the tools you chose.
 
-4. Once, you have apache, mysql server, a version of php and Data Base Management System (DBMS) installed in your machine and the project folder is in the right place you must import the database to your local mysql server. The Dump of the data base is in DB project folder or, [data base dump file](https://github.com/AyrtonPereira1996/sistema-para-gestao-tempo-trabalho-php7/tree/master/bd).
+4. Once, you have apache, mysql server, a version of php and Data Base Management System (DBMS) installed in your machine and the project folder is in the right place you must import the database to your local mysql server. The Dump of the data base is in DB project folder or, [data base dump file](https://github.com/cornelio21/Sistema-de-Gest-o-de-Tempo-de-Trabalho-para-a-DPEFZ/tree/master/bd).
 
 5. In my operating system I acess this project with Wamp
 
